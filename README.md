@@ -19,14 +19,6 @@ O projeto possui caráter educacional e foi elaborado como parte de uma atividad
 
 ---
 
-## 🧠 Tema de Estudo
-
-**Microsoft Excel aplicado à análise de dados, produtividade e automação.**
-
-O Excel é amplamente utilizado no mercado para organização, análise e visualização de dados, sendo uma ferramenta essencial para estudantes e profissionais das áreas de tecnologia, negócios e análise de dados.
-
----
-
 ## 🤖 Uso do NotebookLM no Projeto
 
 O NotebookLM foi utilizado ao longo do projeto para:
@@ -45,5 +37,25 @@ O NotebookLM foi utilizado ao longo do projeto para:
 📦 excel-notebooklm-study
 ├── 📁 notas
 │   └── fontes.md
-├── README.md
-└── resumo_audio.mp3
+├── 📁 Vídeo
+│   └── Excel_para_Home-Office.mp4
+└── README.md
+```
+
+## 📝 Notas e Fontes
+
+As fontes utilizadas no desenvolvimento do conteúdo estão organizadas na pasta `notas`, no arquivo `fontes.md`, que contém todos os links e referências utilizadas no NotebookLM para a construção do material de estudo.
+
+## 📽️ Vídeo Explicativo
+
+Este repositório inclui um vídeo explicativo criado com o apoio do NotebookLM, que apresenta os principais pontos do conteúdo desenvolvido. O arquivo está localizado na pasta `vídeo`, com o nome `Video/Excel_para_Home-Office.mp4`. O GitHub não permite a reprodução de vídeos diretamente no navegador, sendo necessário realizar o download do arquivo para assisti-lo.
+
+## 🧠 Ferramenta Utilizada
+
+NotebookLM (Google), utilizada para análise das fontes, organização do conteúdo, geração de resumos e criação de slides e material explicativo.
+
+## 📌 Considerações Finais
+
+Este projeto demonstra como o NotebookLM pode ser utilizado como um recurso eficiente para aprendizado, organização de estudos e produção de materiais educacionais, integrando texto, slides e vídeo em um único repositório.
+
+📚 Projeto desenvolvido para fins acadêmicos.**
